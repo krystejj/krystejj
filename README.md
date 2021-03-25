@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @krystejj
+- 👀 I’m interested in programming in Java and Node.js
+- 🌱 I’m currently learning English :)
+- 📫 How to reach me? Discord - krystejj#5070
