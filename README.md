@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @krystejj
-- 👀 Java, Node.js and C++
-- 📫 !krystejj#2468
+- 👀 Programming in Java, Node.js and C++
+- 📫 Discord - !krystejj#2468
